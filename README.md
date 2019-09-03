@@ -15,6 +15,8 @@ https://xd.adobe.com/spec/b560848f-43b9-460f-53ca-4249663402a5-c351/
 
 Your client has given you this design specification and want you to build it out - pixel perfect. That means mastering your CSS magic - perfect padding, margin, alignment, colors, and typography.
 
+Functionality wise, users should be able to navigate between the 4 news categories and view different news articles. Clicking on an article opens a new tab to the relevant page. That's all. Data should be fetched from https://newsapi.org/
+
 And one more thing. You have to use one of the following Javascript frameworks:
 - Vue https://vuejs.org/
 - Angular https://angular.io
@@ -25,8 +27,6 @@ Hint: Vue will probably be the easiest to pick up.
 We don't expect you to know these frameworks in and out, just enough to complete this application.
 
 You will be graded on how closely your app resembles the specs, and the structure of your CSS. 
-
-Data should be fetched from https://newsapi.org/
 
 ### Option C: Native Speaker 📱
 Using the same design specs as Option B, build a native version of the application using the Flutter framework https://flutter.dev. 
